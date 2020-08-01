@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.bg-pink{
+background-color: #E83E8C;
+}
+.bg-celeste{
+    background-color: #17A2B8;
+}
+
+i{
+    font-size: 80px;
+    padding: 0px 10px 0px 0px;
+}
+.titulotarjetas{
+font-size: 50px;
+}
+
+.titulo{
+    font-weight: 700;
+    font-size: 60px;
+}
